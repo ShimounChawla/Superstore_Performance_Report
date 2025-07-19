@@ -54,10 +54,10 @@ This Power BI project provides a comprehensive business intelligence solution fo
 ## 📸 Report Screenshots
 
  ### 📊 Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](screenshots/Sales-Overview.png)
 
 ### 🕒 Time-Based Analysis
-![Time-Based Analysis](screenshots/time_analysis.png)
+![Time-Based Analysis](screenshots/Time_Based_Analysis.png)
 
 ---
 
