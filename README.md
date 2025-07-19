@@ -20,10 +20,11 @@ This Power BI project provides a comprehensive business intelligence solution fo
 
 1. **Sales Overview** – Snapshot of KPIs, trends, and overall revenue performance.
 2. **Product Performance** – Deep dive into product categories and subcategories.
-3. **Customer Insights** – RFM-based analysis and customer segments.
-4. **Time-Based Analysis** – Monthly/yearly performance trends.
-5. **Profitability Analysis** – Region/category-level profit vs. sales comparisons.
-6. **Executive Summary** – High-level view for leadership and decision-makers.
+3. **Time-Based Analysis** – Monthly/yearly performance trends.
+4. **Profitability Analysis** – Region/category-level profit vs. sales comparisons.
+5. **Customer Insights** – RFM-based analysis and customer segments.
+6. **Discount Impact Analysis** - Discount Vs Profit
+7. **Executive Summary** – High-level view for leadership and decision-makers.
 
 ---
 
@@ -47,6 +48,16 @@ This Power BI project provides a comprehensive business intelligence solution fo
 - **Slicers, Filters, Bookmarks**
 - **Custom Visuals & KPIs**
 - **Data Cleaning & Transforming (Power Query)**
+
+---
+
+## 📸 Report Screenshots
+
+ ### 📊 Sales Overview
+![Sales Overview](screenshots/sales_overview.png)
+
+### 🕒 Time-Based Analysis
+![Time-Based Analysis](screenshots/time_analysis.png)
 
 ---
 
